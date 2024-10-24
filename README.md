@@ -41,7 +41,7 @@ A real-time weather monitoring system that fetches and displays weather data for
 
 ## API Key
 
-This project uses the OpenWeatherMap API with key: 6df9088b6249404f60dd52436845d94b
+This project uses the OpenWeatherMap API
 
 ## File Structure
 
