@@ -5,7 +5,7 @@ import schedule
 import time
 
 # API Configuration
-API_KEY = '6df9088b6249404f60dd52436845d94b'
+API_KEY = '900b7d6e7d8c9a7b3bedbed8498b749e'
 CITIES = ['Delhi', 'Mumbai', 'Chennai', 'Bangalore', 'Kolkata', 'Hyderabad']
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
